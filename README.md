@@ -60,7 +60,7 @@ private static final String url =
         "jdbc:mysql://localhost:3306/hotel_db";
 
 private static final String username = "root";
-private static final String password = "archit";
+private static final String password = "Your_Password";
 ```
 
 > **Note:** For security, avoid uploading real database passwords to a public repository. Use environment variables or configuration files for production projects.
